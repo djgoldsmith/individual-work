@@ -8,3 +8,5 @@
 * Student Repos
 * Git Hub Classroom
 * Permissions
+* Exersises
+* Automated Testing
